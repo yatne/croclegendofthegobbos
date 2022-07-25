@@ -27,7 +27,7 @@ function goodAnswer() {
     if (counter < answer.length - 1) {
         counter = counter + 1;
     } else {
-        alert('kobyle caco');
+        alert('pasztetowa');
     }
 }
 
